@@ -1,19 +1,23 @@
-# INSTALLLATION
+## Demo
 
-## Install module dependencies
+http://ssokurenko.github.io/firebase-sandbox/
+
+## INSTALLLATION
+
+Install module dependencies:
 
 `sudo npm install`
 
-## Bower compoonents
+Update Bower components:
 
 `bower update`
 
-# USAGE
+## Usage
 
-## Running Grunt server
+Running Grunt server
 
 `grunt server`
 
-## Creating a build (compressed code) in the dist folder
+Creating a build (compressed code) at the dist folder
 
 `grunt build`
